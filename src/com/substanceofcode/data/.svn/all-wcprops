@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10/trunk/src/com/substanceofcode/data
+END
+Serializable.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10/trunk/src/com/substanceofcode/data/Serializable.java
+END
+FileIOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10/trunk/src/com/substanceofcode/data/FileIOException.java
+END
+FileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10/trunk/src/com/substanceofcode/data/FileSystem.java
+END
+FileLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10/trunk/src/com/substanceofcode/data/FileLocator.java
+END
+ImageRmsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10/trunk/src/com/substanceofcode/data/ImageRmsUtils.java
+END

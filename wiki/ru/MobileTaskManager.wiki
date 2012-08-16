@@ -1,0 +1,22 @@
+﻿#summary Mobile Task Manager — это простой и минималистичный инструмент для <a href="http://ru.wikipedia.org/wiki/GTD">GTD</a>, который предназначен для телефонов и устройств, поддерживающих Java.
+
+== Возможности ==
+  * создание задач;
+  * редактирование задач (клавиша _3_);
+  * пометка выполненных заданий (клавиша _ввода_);
+  * очистка сделанных задач;
+  * создание папок (каталогов);
+  * добавление заметок к задачам (клавиша _9_);
+  * сортировка задач (клавиши _влево_-_вправо_);
+  * пометка задач как важных (клавиша _7_);
+  * смена приоритетов задач (клавиша _0_);
+  * и т. д.
+
+Экраны:
+
+[http://www.substanceofcode.com/wp-content/uploads/2009/07/gtd-splash.png] [http://www.substanceofcode.com/wp-content/uploads/2009/07/gtd-list.png] [http://www.substanceofcode.com/wp-content/uploads/2009/07/gtd-details.png] [http://www.substanceofcode.com/wp-content/uploads/2009/07/gtd-menu.png]
+
+== Разработчики ==
+Автор: <a href="http://substanceofcode.com/">Tommi Laukkanen</a>
+
+Помогает: <a href="http://maximals.ru/">MaximAL</a>

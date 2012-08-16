@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12/trunk/src/com/substanceofcode/gtd/views
+END
+FolderTextBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/com/substanceofcode/gtd/views/FolderTextBox.java
+END
+WaitCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7/trunk/src/com/substanceofcode/gtd/views/WaitCanvas.java
+END
+ItemCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/com/substanceofcode/gtd/views/ItemCanvas.java
+END
+Theme.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9/trunk/src/com/substanceofcode/gtd/views/Theme.java
+END
+AboutCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9/trunk/src/com/substanceofcode/gtd/views/AboutCanvas.java
+END
+ImageRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/src/com/substanceofcode/gtd/views/ImageRepository.java
+END
+FileBrowserCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7/trunk/src/com/substanceofcode/gtd/views/FileBrowserCanvas.java
+END
+TaskMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12/trunk/src/com/substanceofcode/gtd/views/TaskMenu.java
+END
+Menu.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12/trunk/src/com/substanceofcode/gtd/views/Menu.java
+END
+SplashCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9/trunk/src/com/substanceofcode/gtd/views/SplashCanvas.java
+END
+SortMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/com/substanceofcode/gtd/views/SortMenu.java
+END
+ActionsMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11/trunk/src/com/substanceofcode/gtd/views/ActionsMenu.java
+END
+MenuCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9/trunk/src/com/substanceofcode/gtd/views/MenuCanvas.java
+END
+BackupPathTextBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7/trunk/src/com/substanceofcode/gtd/views/BackupPathTextBox.java
+END
+ItemForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/com/substanceofcode/gtd/views/ItemForm.java
+END
+NoteForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/com/substanceofcode/gtd/views/NoteForm.java
+END
+MenuAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/com/substanceofcode/gtd/views/MenuAction.java
+END
+MenuItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/com/substanceofcode/gtd/views/MenuItem.java
+END

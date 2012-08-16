@@ -1,0 +1,22 @@
+v1.4 February 26th, 2010
+ * FIX: Don't crash when backup file already exists. Display readable error.
+ * FIX: Don't export new line characters in notes as it invalidates the CSV.
+ * Don't add duplicates when importing items from CSV.
+ * Bit more touch friendly
+
+v1.3
+ * Improved start-up time
+
+v1.2 September 19th, 2009
+ * Todo items can have priority (None, Low, Normal, High)
+ * Pressing '0' will change priority of selected todo item
+ * Sort items by name, done-status or priority
+ * Import items from text or CSV file
+ * FIX: pressing '3' causes the item below the one highlighted to open up for editing
+ * FIX: "Delete selected" will not delete the last entry on a folder.
+ * FIX: pressing '9' does not work for quick note editing
+
+v1.1
+ * Next item is selected when item is marked as done
+ * Purge completed action is now first in the actions menu
+ * Actions are auto-saved every time the list is shown (previously only on exit)
